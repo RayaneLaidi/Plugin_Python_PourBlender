@@ -1,5 +1,5 @@
 # Plugin_Python_PourBlender
-Accessibility Full UI est un plugin Blender qui simplifie l’interface pour la rendre plus compréhensible.
+Simple UI est un plugin Blender qui simplifie l’interface pour la rendre plus compréhensible.
 
 Il remplace les noms techniques complexes par des termes simples en français avec des repères visuels (emojis), afin d’aider :
 
